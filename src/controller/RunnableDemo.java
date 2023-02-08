@@ -28,5 +28,4 @@ class TestThread extends Thread {
         } /* Sleeping 1s roi running */
     }
 }
-/*Các luồng thread chạy song song dẫn đến việc các giá trị in
-                                ra màn hình sẽ không theo thứ tự*/
+/*Các luồng thread chạy song song dẫn đến việc các giá trị in ra màn hình sẽ không theo thứ tự*/
